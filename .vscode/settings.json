@@ -7,5 +7,10 @@
   },
   "[c]": {
     "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "files.associations": {
+    "bpf.h": "c",
+    "bpf_load.h": "c",
+    "trace_helpers.h": "c"
   }
 }
