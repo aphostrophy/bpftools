@@ -3,4 +3,8 @@
 # Object files
 *.o
 
+# Binaries #
+*monitor-exec
+.vagrant
+
 ### Rust ###
