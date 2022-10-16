@@ -4,7 +4,7 @@
 *.o
 
 # Binaries #
-*/monitor-exec
+*monitor-exec
 .vagrant
 
 ### Rust ###
